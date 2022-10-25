@@ -1,0 +1,133 @@
+Added Component: Designator=IC?(TS026690BK100SCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/ts02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(TS026690BK100SCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/ts02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(TS026690BK100SCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/ts02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESISTOR_THROUGH_HOLE)
+Add component (AddParameter): Name = "Category"; Value = "Metal Film Resistors - Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/Vishay-BC-Components/PR03000201000JAC00/?qs=HbLW8Yl3MFzoQdcSX5YM3A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/datasheet/2/427/pr010203-1762580.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "27/06/2021 20:43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "- 55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PR03000201000JAC00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "3 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1 = 0,53, 100 = 0,286 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5,20 D x 16,70 L x 0,78 LD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-5093NW100R0J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "250 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "750 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESISTOR_THROUGH_HOLE)
+Add component (AddParameter): Name = "Category"; Value = "Metal Film Resistors - Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/Vishay-BC-Components/PR03000201000JAC00/?qs=HbLW8Yl3MFzoQdcSX5YM3A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/datasheet/2/427/pr010203-1762580.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "27/06/2021 20:43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "- 55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PR03000201000JAC00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "3 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1 = 0,53, 100 = 0,286 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5,20 D x 16,70 L x 0,78 LD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-5093NW100R0J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "250 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "750 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESISTOR_THROUGH_HOLE)
+Add component (AddParameter): Name = "Category"; Value = "Metal Film Resistors - Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/Vishay-BC-Components/PR03000201000JAC00/?qs=HbLW8Yl3MFzoQdcSX5YM3A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/datasheet/2/427/pr010203-1762580.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "27/06/2021 20:43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "- 55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PR03000201000JAC00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "3 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1 = 0,53, 100 = 0,286 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5,20 D x 16,70 L x 0,78 LD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "594-5093NW100R0J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "250 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "750 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=IC?-2
+Added Pin To Net: NetName=5V Pin=IC?-2
+Added Pin To Net: NetName=5V Pin=IC?-2
+Added Pin To Net: NetName=5V Pin=IC?-2
+Added Pin To Net: NetName=5V Pin=IC?-2
+Added Pin To Net: NetName=5V Pin=IC?-2
+Added Net: Name=5V
+Added Pin To Net: NetName=DIREITA Pin=IC?-1
+Added Pin To Net: NetName=DIREITA Pin=IC?-1
+Added Pin To Net: NetName=DIREITA Pin=R?-2
+Added Net: Name=DIREITA
+Added Pin To Net: NetName=ESQUERDA Pin=IC?-1
+Added Pin To Net: NetName=ESQUERDA Pin=IC?-1
+Added Pin To Net: NetName=ESQUERDA Pin=R?-2
+Added Net: Name=ESQUERDA
+Added Pin To Net: NetName=FRENTE Pin=IC?-1
+Added Pin To Net: NetName=FRENTE Pin=IC?-1
+Added Pin To Net: NetName=FRENTE Pin=R?-2
+Added Net: Name=FRENTE
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

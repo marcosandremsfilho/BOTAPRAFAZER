@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J1-PIN2
+Change Component Footprint: Designator=J1 Old Footprint=Female Header 2 New Footprint=MALE HEADER 6
+Change Component Comment : Designator=J1 Old Comment=Female Header 2 New Comment=Male Header 6
+Change component parameters: Designator = "J1" ("J1"); Footprint = "Female Header 2"; UniqueID = "\JAMJWZHG" ("\JAMJWZHG")
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "02/10/2022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Cage"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Cage"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Cage"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Persont that did the Last Update Footprint"; Value = "Cage"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESQUERDA Pin=J1-PIN2
+Added Pin To Net: NetName=FRENTE Pin=J1-PIN3
+Added Pin To Net: NetName=DIREITA Pin=J1-PIN4
+Added Pin To Net: NetName=GND Pin=J1-PIN6

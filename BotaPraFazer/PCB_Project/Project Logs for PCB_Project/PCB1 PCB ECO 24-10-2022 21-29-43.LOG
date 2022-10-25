@@ -1,0 +1,30 @@
+Change Component Comment : Designator=IC1 Old Comment=Push buttom 4 New Comment=Push buttom TH - 2 pin
+Change Component Comment : Designator=IC2 Old Comment=Push buttom 4 New Comment=Push buttom TH - 2 pin
+Change Component Comment : Designator=IC3 Old Comment=Push buttom 4 New Comment=Push buttom TH - 2 pin
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "TS026690BK100SCRD"; UniqueID = "\WZTFTSNK" ("\WZTFTSNK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gravitech.us/mipubusw2qt4.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "TS026690BK100SCRD"; UniqueID = "\VJOYXEKL" ("\VJOYXEKL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gravitech.us/mipubusw2qt4.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "TS026690BK100SCRD"; UniqueID = "\KXJXMQMO" ("\KXJXMQMO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gravitech.us/mipubusw2qt4.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 Push buttom TH - 2 pin
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 Push buttom TH - 2 pin
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 Push buttom TH - 2 pin

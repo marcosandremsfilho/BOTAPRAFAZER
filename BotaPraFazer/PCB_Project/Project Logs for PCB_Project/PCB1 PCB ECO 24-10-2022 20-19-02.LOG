@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ESQUERDA Pin=J?-PIN3
+Removed Pin From Net: NetName=GND Pin=J?-PIN4
+Removed Pin From Net: NetName=5V Pin=J?-PIN5
+Added Pin To Net: NetName=GND Pin=J?-PIN3
+Added Pin To Net: NetName=5V Pin=J?-PIN6

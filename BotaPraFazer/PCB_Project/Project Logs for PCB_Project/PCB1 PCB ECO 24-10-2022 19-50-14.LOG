@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 Push buttom 4
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 Push buttom 4
+Added Member To Class: ClassName=Sheet1 Member=Component R1 100 R
+Added Member To Class: ClassName=Sheet1 Member=Component R3 100 R
+Added Room: Name=Sheet1

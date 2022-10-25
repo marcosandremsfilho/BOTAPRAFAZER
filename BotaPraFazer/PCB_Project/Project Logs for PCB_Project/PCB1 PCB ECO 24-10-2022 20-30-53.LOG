@@ -1,0 +1,36 @@
+Added Component: Designator=IC1(TS026690BK100SCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/ts02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2(TS026690BK100SCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/ts02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3(TS026690BK100SCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cuidevices.com/product/resource/ts02.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESQUERDA Pin=IC1-1
+Added Pin To Net: NetName=ESQUERDA Pin=IC1-1
+Added Pin To Net: NetName=5V Pin=IC1-2
+Added Pin To Net: NetName=5V Pin=IC1-2
+Added Pin To Net: NetName=FRENTE Pin=IC2-1
+Added Pin To Net: NetName=FRENTE Pin=IC2-1
+Added Pin To Net: NetName=5V Pin=IC2-2
+Added Pin To Net: NetName=5V Pin=IC2-2
+Added Pin To Net: NetName=DIREITA Pin=IC3-1
+Added Pin To Net: NetName=DIREITA Pin=IC3-1
+Added Pin To Net: NetName=5V Pin=IC3-2
+Added Pin To Net: NetName=5V Pin=IC3-2
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 Push buttom 4
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 Push buttom 4
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 Push buttom 4

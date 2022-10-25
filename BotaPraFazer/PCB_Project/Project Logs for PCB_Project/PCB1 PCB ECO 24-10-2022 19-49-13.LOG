@@ -1,0 +1,9 @@
+Added Component: Designator=J?(Female Header 2)
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J?-PIN1
+Added Pin To Net: NetName=GND Pin=J?-PIN2
+Added Member To Class: ClassName=Sheet1 Member=Component IC? Push buttom 4
+Added Member To Class: ClassName=Sheet1 Member=Component IC? Push buttom 4
+Added Member To Class: ClassName=Sheet1 Member=Component J? Female Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100 R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100 R
